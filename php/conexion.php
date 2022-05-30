@@ -3,7 +3,7 @@
 # Type="MYSQL"
 # HTTP="true"
 $hostname_conexion = "localhost";
-$database_conexion = "tesoprueba";
+$database_conexion = "bdqrteso";
 $username_conexion = "root";
 $password_conexion = "";
 /*

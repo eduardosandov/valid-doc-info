@@ -1,0 +1,23 @@
+header {
+  height: 70px;
+}
+.nav-barr {
+  padding: 10px;
+  display: grid;
+  width: 100%;
+  grid-template-columns: 1fr 1fr;
+  background-color: var(--azul-uno);
+  justify-items: center;
+  align-items: center;
+  position: fixed;
+  margin: 0;
+}
+.header-section-logo {
+  img {
+    width: 40%;
+  }
+}
+.tittle-valid {
+  font-size: 13px;
+  color: var(--white);
+}

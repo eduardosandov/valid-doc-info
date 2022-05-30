@@ -1,0 +1,57 @@
+/*===== GOOGLE FONTS =====*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');*/
+
+:root{
+  --header-height: 3rem;
+/* =========COLOR============ */
+    --azul-uno: #001B48;
+    --azul-dos: #002447;
+    --azul-tres: #155DB1;
+    --azul-cuatro: #2196F3;
+    --azul-cinco: #81C9FA;
+    --rojo-uno: #CC0001;
+    --rojo-dos: #E60000; 
+    --rojo-tres: #FF1A1A;
+    --rojo-cuatro: #FF3334;
+    --rojo-cinco: #FF4D4D;
+    --grey-one: rgb(29, 29, 29);
+    --grey-two: #222;
+    --grey-three: #808080;
+    --grey-four: #B3B3B3;
+    --grey-five: #E6E6E6;
+    --grey-six: #f3f3f3be;
+    --grey-seven: #fcfcfc;
+    --white: white;
+    --wrapper-background: #fff111;
+    --black: #111111;
+    --botton-color: #333222;
+    --target-color: #ebf6ff;    
+    
+  /*========== Fuente y tipografia ==========*/
+  --body-font: 'Poppins', sans-serif;
+
+  --big-font-size: 2rem;
+  --h1-font-size: 50px;
+  --h2-font-size: 42px;
+  --h3-font-size: 30px;
+  --h4-font-size: 20px;
+  --normal-font-size: 17px;
+  --small-font-size: .813rem;
+  --smaller-font-size: .75rem;
+
+      /*========== Font weight ==========*/
+      --font-medium: 500;
+      --font-semi-bold: 600;
+  
+    /*========== Margenes Bottom ==========*/
+    /*.5rem = 8px | 1rem = 16px ...*/
+    --mb-0-5: .5rem;
+    --mb-0-75: .75rem;
+    --mb-1: 1rem;
+    --mb-1-5: 1.5rem;
+    --mb-2: 2rem;
+    --mb-2-5: 2.5rem;
+
+ 
+}
